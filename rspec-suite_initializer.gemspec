@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Takeshi Horiuchi"]
   spec.email         = ["keshihoriuchi@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
+  spec.summary       = %q{Initialize instance variables for RSpec on before :suite hook.}
   spec.homepage      = "https://github.com/keshihoriuchi/rspec-suite_initializer"
   spec.license       = 'MIT'
 
