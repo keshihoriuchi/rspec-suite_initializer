@@ -1,4 +1,4 @@
-# Rspec::SuiteInitializer
+# RSpec::SuiteInitializer
 
 Initialize instance variables for RSpec on before :suite hook.
 
